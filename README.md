@@ -9,3 +9,7 @@
 2) Go to your download directory (default: "Downloads")
 3) Place the map in your map directory (default: C:\Users\ [USER]\Documents\Warcraft III\Maps\Download)
 4) Enjoy!
+
+***
+
+Vexorian's Map Optimizer with War3Patch.mpq is also included in the release folder as a "pre-release."
